@@ -1,0 +1,1 @@
+# Simulation-and-Analysis-of-Orthogonal-Cutting-using-ANSYS-software.
